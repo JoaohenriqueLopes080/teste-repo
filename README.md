@@ -2,4 +2,4 @@
 
 Aprendendo o basico de git and github - learning the basic of git and github.
 
-apenas aprendendo coisa nova - branch 2 new item
+mudando uma branch para que tenha conflicts
